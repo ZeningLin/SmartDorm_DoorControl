@@ -1,0 +1,4 @@
+".\Objects\main.obj",
+".\Objects\rc522.obj" 
+TO ".\Objects\smart_dorm" 
+PRINT(".\Listings\smart_dorm.m51") RAMSIZE(256) 
